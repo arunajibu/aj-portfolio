@@ -13,7 +13,7 @@ export default function About() {
           </h2>
 
           <p className="text-gray-300 mb-4">
-            I am a Full Stack Developer with experience building scalable
+            I am a Full Stack web Developer with experience building scalable
             web applications using React, Node.js, PHP, and MySQL.
           </p>
 
@@ -28,10 +28,10 @@ export default function About() {
           <h3 className="text-2xl font-semibold mb-4 text-cyan-400">
             Quick Facts
           </h3>
-
           <ul className="space-y-3 text-gray-300">
             <li>✔ 5+ Years Web Development</li>
             <li>✔ React & Modern JavaScript</li>
+            <li>✔ WordPress Development,Shopify,ZOHO</li>
             <li>✔ Backend with Node & PHP</li>
             <li>✔ Database: MySQL & Supabase</li>
           </ul>
