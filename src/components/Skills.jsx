@@ -10,7 +10,7 @@ export default function Skills() {
           Skills
         </h2>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-4 gap-8">
 
           {/* Frontend */}
           <div className="bg-[#1e293b] p-8 rounded-2xl border border-gray-800 hover:border-cyan-400 transition duration-300">
@@ -37,7 +37,18 @@ export default function Skills() {
               <li>REST APIs</li>
             </ul>
           </div>
-
+          {/* Backend */}
+          <div className="bg-[#1e293b] p-8 rounded-2xl border border-gray-800 hover:border-cyan-400 transition duration-300">
+            <h3 className="text-2xl font-semibold mb-6 text-cyan-400">
+              E-Commerce
+            </h3>
+            <ul className="space-y-3 text-gray-300">
+              <li>Shopify</li>
+              <li>Zoho Commerce</li>
+              <li>WordPress</li>
+  
+            </ul>
+          </div>
           {/* Tools & Database */}
           <div className="bg-[#1e293b] p-8 rounded-2xl border border-gray-800 hover:border-cyan-400 transition duration-300">
             <h3 className="text-2xl font-semibold mb-6 text-cyan-400">

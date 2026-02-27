@@ -14,7 +14,9 @@ export default function About() {
 
           <p className="text-gray-300 mb-4">
             I am a Full Stack web Developer with experience building scalable
-            web applications using React, Node.js, PHP, and MySQL.
+            web applications and conversion-focused online stores using 
+            React, Node.js, PHP,WordPress, Shopify, and Zoho Commerce and MySQL.
+
           </p>
 
           <p className="text-gray-400">
