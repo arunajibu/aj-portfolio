@@ -45,7 +45,7 @@ export default function Contact() {
               <label className="block mb-2 text-gray-300">Name</label>
               <input
                 type="text"
-                name="user_name"
+                name="from_name"
                 required
                 className="w-full px-4 py-3 rounded-lg bg-[#0f172a] border border-gray-700 focus:outline-none focus:border-cyan-400 transition"
               />
@@ -55,7 +55,7 @@ export default function Contact() {
               <label className="block mb-2 text-gray-300">Email</label>
               <input
                 type="email"
-                name="user_email"
+                name="from_email"
                 required
                 className="w-full px-4 py-3 rounded-lg bg-[#0f172a] border border-gray-700 focus:outline-none focus:border-cyan-400 transition"
               />
